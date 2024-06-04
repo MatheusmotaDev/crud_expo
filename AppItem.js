@@ -26,7 +26,8 @@ const styles = StyleSheet.create({
     container: {
       backgroundColor: '#fff',
       marginTop: 20,
-      width: '100%'
+      width: '100%',
+      borderRadius: 10,
     },
     buttonsContainer: {
         flexDirection: 'row-reverse',

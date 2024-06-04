@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 10,
     borderTopRightRadius: 10,
     alignItems: 'stretch',
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
   },
   input:{
     marginTop: 10,
@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
   button:{
     marginTop:10,
     height: 60,
-    backgroundColor: 'black',
+    backgroundColor: 'red',
     borderRadius: 10,
     paddingHorizontal: 24,
     fontSize: 16,
